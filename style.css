@@ -1,0 +1,22 @@
+.header1 {
+    background-color: black ;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#cloud {
+    color: aqua;
+}
+
+.header2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+
+.header3 { 
+    background-color: cornflowerblue;
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+    
+}
